@@ -1,2 +1,6 @@
 n'importe quoi
+<<<<<<< HEAD
 uchita
+=======
+nimporte koi 2
+>>>>>>> 8a1f7fdf6c6daf9e5df57f7ceac89a2bc07abc68
